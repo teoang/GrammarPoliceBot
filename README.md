@@ -1,5 +1,5 @@
 Grammar Judge Telegram Bot
-This is a strict, no-nonsense Telegram bot designed to monitor group chats (or DMs) and call out grammar and spelling mistakes. It maintains a "Wall of Shame" leaderboard to track who fails the most at basic English.
+Telegram bot that corrects my English in real conversations to help me prepare for the IELTS exam. It uses Qwen 30B Thinking to detect mistakes and suggest improvements while chatting. It maintains a "Wall of Shame" leaderboard to track who fails the most at basic English.
 
 🚀 Features
 Real-time Correction: Uses AI to identify and correct grammar/spelling errors instantly.
@@ -7,8 +7,7 @@ Real-time Correction: Uses AI to identify and correct grammar/spelling errors in
 - The "Wall of Shame": Tracks the number of mistakes made by each user.
 - Strict Criteria: Ignores minor issues like missing periods or capitalization to focus on actual linguistic crimes.
 - Minimalist Feedback: No polite fluff—just the correction and a one-sentence explanation.
-
-Slang Friendly: Programmed to "PASS" on laughter, emojis, and common slang.
+- Slang Friendly: Programmed to "PASS" on laughter, emojis, and common slang.
 
 🛠️ Technology Stack
 - Language: Python
