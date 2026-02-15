@@ -1,8 +1,8 @@
 # 👮‍♂️ GrammarPoliceBot
 
-> **Telegram bot that corrects my English in real conversations to help me prepare for the IELTS exam.**
+> **Telegram bot that corrects my english in real conversations to help me prepare for the IELTS exam (wish me luck!).**
 
-This bot monitors your English in Telegram chats, using **Qwen 30B Thinking** (via OpenRouter) to detect mistakes and suggest improvements. It also maintains a **"Wall of Shame"** to track who needs the most practice.
+This bot monitors your english in Telegram chats, using **Qwen 30B Thinking** (via OpenRouter) to detect mistakes and suggest improvements. It also maintains a **"Wall of Shame"** to track who needs the most practice.
 
 ---
 
