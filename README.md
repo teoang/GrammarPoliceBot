@@ -18,7 +18,7 @@ This bot monitors your English in Telegram chats, using **Qwen 30B Thinking** (v
 
 * **Language:** Python 3.10+
 * **Framework:** `python-telegram-bot`
-* **AI Engine:** OpenRouter API (`qwen/qwen-2.5-72b-instruct` or similar)
+* **AI Engine:** OpenRouter API (`qwen/qwen3-vl-30b-a3b-thinking` or similar)
 * **Environment:** `python-dotenv`
 
 ## 📋 Prerequisites
