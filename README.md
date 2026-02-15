@@ -4,6 +4,8 @@
 
 This bot monitors your english in Telegram chats, using **Qwen 30B Thinking** (via OpenRouter) to detect mistakes and suggest improvements. It also maintains a **"Wall of Shame"** to track who needs the most practice.
 
+![alt text](image.png)
+
 ---
 
 ## 🚀 Features
