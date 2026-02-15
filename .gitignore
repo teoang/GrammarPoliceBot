@@ -1,5 +1,5 @@
-# Segreti e configurazioni locali
+# Local environment variables
 .env
 
-# File di sistema macOS
+# IDE and OS files
 .DS_Store
