@@ -1,4 +1,4 @@
-# 👮‍♂️ Grammar Judge Telegram Bot
+# 👮‍♂️ GrammarPoliceBot
 
 > **Telegram bot that corrects my English in real conversations to help me prepare for the IELTS exam.**
 
