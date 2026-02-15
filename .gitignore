@@ -1,0 +1,5 @@
+# Segreti e configurazioni locali
+.env
+
+# File di sistema macOS
+.DS_Store
